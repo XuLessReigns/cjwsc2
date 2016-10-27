@@ -1,0 +1,1 @@
+$(".top").load("../html/header-common2.html");

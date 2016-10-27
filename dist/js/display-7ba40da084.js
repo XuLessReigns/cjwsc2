@@ -1,0 +1,1 @@
+$(function(){$(".classify").hover(function(){$("#menu").show()},function(){$("#menu").hide()})});
